@@ -22,9 +22,11 @@ img:hover {
 }
 
 .viz-grid img {
-
     padding: 0;
+}
 
+.hovereffect:hover .viz-grid a h2:hover {
+  text-decoration: none;
 }
 
 .hovereffect {
