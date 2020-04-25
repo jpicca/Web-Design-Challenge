@@ -3,4 +3,4 @@
 ### Overview
 <hr>
 
-In this challenge, we must design a responsive website (utilizing the Bootstrap framework) that includes data from a previous project. Additionally, I decided to utilize a theme from [Bootswatch](https://bootswatch.com/lux/).
+This repo contains files to display basic analysis of weather condition sensitivity to latitude. It utilizes bootstrap a theme from [Bootswatch](https://bootswatch.com/lux/) to stylize the pages. Head [here](jpicca.github.io) to see the actual site. 
