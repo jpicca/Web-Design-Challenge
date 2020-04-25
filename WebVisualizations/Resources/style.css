@@ -25,10 +25,6 @@ img:hover {
     padding: 0;
 }
 
-.hovereffect:hover .viz-grid a h2:hover {
-  text-decoration: none;
-}
-
 .hovereffect {
     width: 100%;
     height: 100%;
